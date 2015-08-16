@@ -1,5 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Ribeye+Marrow);
-
+.selector {
+    position: fixed;
+    bottom: 0;
+}
 body {
   font-family: Ribeye Marrow;
   margin: 0;
